@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on NexusQ
-- 🌱 I’m currently learning web Developmen on Undefined-BootCamp
+- 🌱 I’m currently learning web Developmen at Undefined-BootCamp
 - 💬 Ask me about Visual Foxpro
 
 
