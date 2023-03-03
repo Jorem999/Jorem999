@@ -2,7 +2,7 @@
 
 ## Newbie in this WebTech
 
-### An ancient programmer (form the MS-DOS age) in an ancient languaje, trying to evolve
+### An ancient programmer (form MS-DOS age) in an ancient languaje > trying to evolve
 
 #### I know
 
