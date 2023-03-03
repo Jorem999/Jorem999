@@ -1,13 +1,23 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Jorem999/Jorem999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Newbie in this WebTech
 
-Here are some ideas to get you started:
--->
+### An ancient programmer (form the MS-DOS age) in an ancient languaje, trying to evolve
 
-- 🔭 I’m currently working on NexusQ
-- 🌱 I’m currently learning web Developmen at Undefined-BootCamp
+#### I know
+
+- Visual Foxpro (Have a ERP: Nexus)
+- Some Java 
+- Some JavaFX
+
+#### Studing
+
+- Kotlin
+- Android
+- Web Develpoment... JavaScrip, HTML, CSS...
+
+#### Doing
+
+- 🔭 I’m currently redoing the entire system NexusQ (VFP -> Java ecosystem)
+- 🌱 Learning web Developmen at Undefined-BootCamp
 - 💬 Ask me about Visual Foxpro
-
-
