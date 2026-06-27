@@ -12,12 +12,12 @@
 
 #### Studing
 
-- Kotlin
-- Android
+- IA 
 - Web Develpoment... JavaScrip, HTML, CSS...
+- Kotlin, Android
 
 #### Doing
 
-- 🔭 I’m currently redoing the entire system NexusQ (VFP -> Java ecosystem)
-- 🌱 Learning web Developmen at Undefined-BootCamp
+- 🔭 I’m currently redoing the entire system NexusERP (VFP -> C# ecosystem)
+- 🌱 Learning web Developmen
 - 💬 Ask me about Visual Foxpro
